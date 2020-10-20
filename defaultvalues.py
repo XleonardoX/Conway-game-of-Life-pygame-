@@ -1,0 +1,8 @@
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+BLUE = (0,0,255)
+WIDTH = 20
+HEIGHT = 20
+MARGIN = 5
+SIZE = [630, 630]
+TITLE = "Atividade 2"
